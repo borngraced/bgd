@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Samuel Onoja
+description: rust software engineer
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: "" #name of GitHub repository
+url: "https://bgd.dev/" #custom url to be used instead of GitHub repository
+email: dev@sami.cx
 
 # Pagination
 paginate: 4
@@ -13,16 +13,15 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
+twitter: "/bgd_dev/"
+linkedin: "/samisami"
 stackoverflow: "#"
-github: "#"
+github: "/borngraced"
 researchgate: "#"
 orcid: "#"
 quora: "#"
 instagram: "#"
 facebook: "#"
-
 
 # Markdown
 highlighter: rouge
@@ -33,7 +32,35 @@ analytics:
 
 # optimization -> compress.html
 compress_html:
-  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  clippings:
+    [
+      html,
+      div,
+      p,
+      ul,
+      td,
+      h1,
+      h2,
+      h3,
+      h4,
+      link,
+      meta,
+      footer,
+      nav,
+      img,
+      header,
+      hr,
+      br,
+      head,
+      style,
+      li,
+      ul,
+      ol,
+      time,
+      main,
+      script,
+      title,
+    ]
   comments: ["<!-- ", " -->"]
   endings: [all]
   ignore:
