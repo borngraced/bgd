@@ -5,6 +5,13 @@
   padding: 2rem;
 }
 
+/* Project Page */
+.CharityContainer {
+  max-width: 800px;
+  padding: 0rem;
+  font-size: 20px;
+}
+
 .gallery {
   display: flex;
   flex-wrap: wrap;
@@ -60,8 +67,7 @@
 }
 
 @include media-query($on-phone) {
-  @media screen and (max-width: $on-phone){
-
+  @media screen and (max-width: $on-phone) {
     .projectTile {
       height: 80px;
     }
@@ -77,14 +83,11 @@
     .projectTile:hover a span h2 {
       display: flex;
     }
-
-
   }
 }
 
 @include media-query($on-palm) {
-  @media screen and (max-width: $on-palm){
-
+  @media screen and (max-width: $on-palm) {
     .projectTile {
       height: 100px;
     }
@@ -100,10 +103,8 @@
     .projectTile:hover a span h2 {
       display: flex;
     }
-
   }
 }
-
 
 @supports (display: grid) {
   .gallery {

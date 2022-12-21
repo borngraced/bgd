@@ -2,20 +2,15 @@
 layout: about
 permalink: /
 profile:
-  align: right
-  image: profile.png
+  align: center
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Howdy, <br/>
+Samuel Onoja is my name, and I'm a software developer based in Lagos, Nigeria. I began my career using PHP and now generally code in rust and typescript, with a little Scala thrown in for good measure.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+I enjoy playing video games (such as Genshin Impact, Fifa, and some adventure games like Assassin Creed), as well as listening to music (I like sedate music and lot of christian, gospel music and also perhaps some afrobeats)
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+I'm currently not looking for any other jobs because I work full-time as a rust software developer at [AtomicDex](https://github.com/KomodoPlatform/atomicDEX-API){:target="\_blank"}, of Komodo Platform.
 
-PS: If you liked the theme, do star it on GitHub!
-
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+Would you like to talk? [Send a mail!](https://mail:samiodev@icloud.comI){:target="\_blank"}
