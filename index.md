@@ -6,7 +6,7 @@ profile:
 published: true
 ---
 
-Hey there, I'm Samuel Onoja, a software engineer based in the vibrant city of Lagos, Nigeria. I'm a coding enthusiast who loves exploring new technologies and pushing the boundaries of what's possible.
+Hey there, great to meet you! My name is Samuel Onoja and I'm a software engineer hailing from the bustling metropolis of Lagos, Nigeria. I'm a bit of a coding junkie, always eager to dive into new technologies and push the limits of what's possible. You could say I'm a bit like a superhero, except instead of a cape I have a keyboard and instead of fighting crime I'm fighting bugs in the code. But hey, it's a living!
 <br/>
 I started my career working with PHP, but these days I'm equally comfortable with rust, typescript and Go. I'm currently building amazing techs at Komodo ([AtomicDEX API](https://github.com/KomodoPlatform/atomicDEX-API){:target="\_blank"}), and I couldn't be more excited about the projects I'm working on.
 <br/>
