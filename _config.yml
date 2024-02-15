@@ -4,7 +4,7 @@ title: Samuel Onoja
 description: rust software engineer
 
 baseurl: "" #name of GitHub repository
-url: "https://bgd.dev/" #custom url to be used instead of GitHub repository
+url: "https://sami.cx/" #custom url to be used instead of GitHub repository
 email: dev@sami.cx
 
 # Pagination
@@ -70,18 +70,6 @@ compress_html:
   startings: []
 
 #collection
-collections:
-  work:
-    output: true
-    permalink: /work/:name/
-    order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
-
 sass:
   sass_dir: /assets/css/_sass
   style: compressed
